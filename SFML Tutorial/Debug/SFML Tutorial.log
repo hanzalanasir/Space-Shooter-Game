@@ -1,0 +1,41 @@
+﻿  Main.cpp
+  Shooter.cpp
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(54,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(54,55): warning C4244:         with
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(54,55): warning C4244:         [
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(54,55): warning C4244:             T=unsigned int
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(54,55): warning C4244:         ]
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(85,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(85,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(94,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(94,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,56): warning C4244:         with
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,56): warning C4244:         [
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,56): warning C4244:             T=unsigned int
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(121,56): warning C4244:         ]
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(125,32): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(125,27): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(129,31): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(129,26): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(279,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(285,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(286,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(287,49): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(296,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(301,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(302,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(303,49): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(311,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(312,49): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(325,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(325,73): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(326,57): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(327,57): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(350,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\SFML Tutorial\Shooter.cpp(353,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Testing_1.cpp
+  Generating Code...
+  SFML Tutorial.vcxproj -> H:\FAST\Semester 1\Programming Fundamentals\SFML Tutorial\Debug\SFML Tutorial.exe
