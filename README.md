@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Space Shooter Game
 
 A classic arcade-style 2D space shooter game built in **C++ using SFML (Simple and Fast Multimedia Library)**. Take control of a spaceship, shoot down enemies, level up, and try to survive through all 5 levels!
